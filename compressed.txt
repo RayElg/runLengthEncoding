@@ -1,0 +1,8 @@
+The  following sequence is "x" 1020 times (255 * 4)
+xxÿxxÿxxÿxxÿ
+It will be written as xx[255] 4 times
+
+Abcde
+abaaccaaddeeffgghhii
+Raynor Elgie
+AABBCCDDEEFF
